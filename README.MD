@@ -16,3 +16,11 @@ npm run 3
 ```
 npm run 4
 ```
+### Comandos para rodar o exercício 5:
+```
+npm run 5
+```
+### Comandos para rodar o exercício 6:
+```
+npm run 6
+```
