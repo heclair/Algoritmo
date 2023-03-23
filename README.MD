@@ -24,3 +24,7 @@ npm run 5
 ```
 npm run 6
 ```
+### Comandos para rodar o exercício 7:
+```
+npm run 7
+```
